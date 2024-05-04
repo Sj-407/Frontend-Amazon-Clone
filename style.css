@@ -26,6 +26,33 @@
     background-size: cover;
 }
 
+/* 2) Panel Styling */
+
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel-options p{
+    display: inline;
+    margin: 15px;
+}
+
+.panel-options {
+    width: 70%;
+    font-size: 0.85rem;
+    
+}
+
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
 .border{
     border: 1.5px solid transparent;
 }
