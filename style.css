@@ -25,3 +25,32 @@
     width: 100%;
     background-size: cover;
 }
+
+.border{
+    border: 1.5px solid transparent;
+}
+
+.border:hover{
+    border: 1.5px solid white;
+}
+
+/* 1.2) Box2 of navbar styling(deliver to India) */
+
+/* Deliver to */
+.add-first{
+    color: #CCCCCC;
+    font-size: 0.7rem;
+    margin-left: 15px;
+}
+
+/* Location icon and India */
+.add-second{
+    color: #ffffff;
+    font-size: 1rem; /* using rem as unit as it makes website responsive, the size of font adjust to the height and width of web page*/
+    margin-left: 3px;
+}
+
+.address-icon{
+    display: flex; /*To display the "Location icon" and "India" in one line*/
+    align-items: center;
+}
