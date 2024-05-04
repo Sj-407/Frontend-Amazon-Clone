@@ -101,3 +101,25 @@
 .nav-search:hover{
     border: 3px solid #febd68;
 }
+
+/* 1.4) Box4 and box 5in Nav bar -> Sign In and Accounts & lists And Returns */
+
+
+span{
+    font-size: 0.7rem;
+}
+
+.nav-line-two{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/* 1.5) box6 -> nav cart  */
+.nav-cart i{
+    font-size: 30px;
+}
+
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
